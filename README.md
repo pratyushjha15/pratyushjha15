@@ -1,27 +1,24 @@
-💫 About Me:
-
-Hello! I am an aspiring Web Developer with a Bachelor of Computer Applications (BCA). My journey in web development began with a fascination for creating dynamic, user-friendly digital experiences and understanding the technology that powers the internet. This curiosity has fueled my exploration of coding, design, and the art of building seamless web applications.
-I am passionate about crafting innovative solutions that blend creativity and functionality. Whether it’s designing intuitive interfaces, building robust backend systems, or staying updated with the latest trends in web technologies, I’m driven to expand my skills and bring ideas to life. For me, web development is not just about writing code—it’s about creating meaningful, impactful experiences that connect users and solve real-world problems.
+# 💫 About Me:
+I'm in  M.Sc IT at DAIICT.<br>I'm a frontend developer.<br>I like problem solving.<br>I completed my bachleors from St. Xavier's college Ahmedabad.<br>My area of interest is  cybersecurity.
 
 
-🌐 Socials:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratyushjha15ps28/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pratyush_jha_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratyushshivam15@gmail.com) 
 
-<img width="57" height="20" alt="image" src="https://github.com/user-attachments/assets/0aff1cbb-4bab-47a1-aae2-adc862a8390a" />
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=flat&logo=playwright&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=flat&logo=vitest&logoColor=FCC72B) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pratyushjha15/&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pratyushjha15/&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushjha15/&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pratyushjha15/&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-💻 Tech Stack:
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+[![](https://visitcount.itsvg.in/api?id=pratyushjha15/&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img width="72" height="28" alt="image" src="https://github.com/user-attachments/assets/46aad3a9-49b6-405a-a2a7-f87ba0af46af" />
-<img width="111" height="28" alt="image" src="https://github.com/user-attachments/assets/f73748a8-19f0-4f00-a4b7-a792a4426298" />
-<img width="123" height="28" alt="image" src="https://github.com/user-attachments/assets/5cba04c7-cbc6-45b5-9e89-f67474e377b9" />
-<img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/b94ad5ef-f2ea-4ead-b138-0b870860ecef" />
-<img width="86" height="28" alt="image" src="https://github.com/user-attachments/assets/0ab71528-3b77-4dec-8ee7-3d9a50e4107e" />
-
-
-
-📊 GitHub Stats:
-
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
